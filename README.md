@@ -7,8 +7,18 @@
   <title>Dev Tools Suite</title>
   <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
   <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
-  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4850105760470054"
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8773480799818158"
     crossorigin="anonymous"></script>
+  <!-- AdSense Ad Unit -->ca-app-pub-8773480799818158/9354903383      
+     <ins class="adsbygoogle" 
+     style="display:block"
+     data-ad-client="ca-pub-8773480799818158"
+     data-ad-slot="9354903383"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
   <style>
     body.dark {
       background-color: #1a202c;
@@ -66,13 +76,17 @@
         <pre id="diff-output" class="mt-4 p-2 border"></pre>
       </div>
 
-      <ins class="adsbygoogle"
-        style="display:block"
-        data-ad-client="ca-pub-4850105760470054"
-        data-ad-slot="2486822494"
-        data-ad-format="auto"
-        data-full-width-responsive="true"></ins>
-      <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+        <!-- AdSense Ad Unit -->ca-app-pub-8773480799818158/9055111364      
+        <ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-8773480799818158"
+     data-ad-slot="9055111364"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window
+                     (adsbygoogle = window.adsbygoogle || []).push({});
+                </script>>
     </main>
   </div>
 
